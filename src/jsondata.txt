@@ -1,0 +1,16 @@
+{id='import_0_0', instruction='import', path='com.fitnesse',status='pass'} 
+{id='decisionTable_1_0', instruction='make', instanceName='decisionTable_1', className='ShippingMode', status='pass',args=[]} 
+{id='decisionTable_1_4', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[111]} 
+{id='decisionTable_1_6', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='pass',args=[]} 
+{id='decisionTable_1_8', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[110]} 
+{id='decisionTable_1_10', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='pass',args=[]}
+{id='decisionTable_1_12', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[101]} 
+{id='decisionTable_1_14', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='pass',args=[]} 
+{id='decisionTable_1_16', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[011]} 
+{id='decisionTable_1_18', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='pass',args=[]} 
+{id='decisionTable_1_20', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[100]} 
+{id='decisionTable_1_22', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='pass',args=[]} 
+{id='decisionTable_1_24', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[010]} 
+{id='decisionTable_1_26', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='fail',args=[]} 
+{id='decisionTable_1_28', instruction='call', instanceName='decisionTable_1', methodName='setCode', args=[001]} 
+{id='decisionTable_1_30', instruction='call', instanceName='decisionTable_1', methodName='getWays', status='pass',args=[]} 
